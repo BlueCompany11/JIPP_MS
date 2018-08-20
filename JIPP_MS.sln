@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JIPP_MS", "JIPP_MS\JIPP_MS.csproj", "{D50132BD-94DE-4A3D-A342-3FF2DB926582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50132BD-94DE-4A3D-A342-3FF2DB926582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50132BD-94DE-4A3D-A342-3FF2DB926582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50132BD-94DE-4A3D-A342-3FF2DB926582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50132BD-94DE-4A3D-A342-3FF2DB926582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9478C9-FD9E-40BE-9EEA-5F657A9E4EBC}
+	EndGlobalSection
+EndGlobal
